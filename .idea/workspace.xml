@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d301a7a3-e747-44ac-81a1-a944017f18ab" name="Changes" comment="Tests for Scooter Service">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/steps/Steps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PageObject/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PageObject/MainPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PageObject/OrderElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PageObject/OrderElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/UiTests/CheckAboutImportantListPanelText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/UiTests/CheckAboutImportantListPanelText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/UiTests/CheckCreateOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/UiTests/CheckCreateOrder.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GjNbT6okMAXr1Dm0Xc3lfb67sZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.CheckCreateOrder.checkCreateOrderTwoButtons">
+    <configuration name="CheckAboutImportantListPanelText" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sprint_4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UiTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="UiTests" />
+      <option name="MAIN_CLASS_NAME" value="UiTests.CheckAboutImportantListPanelText" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckAboutImportantListPanelText.checkAnswersWhenQuestionsOpen" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sprint_4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UiTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="UiTests" />
+      <option name="MAIN_CLASS_NAME" value="UiTests.CheckAboutImportantListPanelText" />
+      <option name="METHOD_NAME" value="checkAnswersWhenQuestionsOpen" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckCreateOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sprint_4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UiTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="UiTests" />
+      <option name="MAIN_CLASS_NAME" value="UiTests.CheckCreateOrder" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <envs>
+        <env name="browser" value="ff" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckCreateOrder.checkCreateOrderTopButtonOrderAllFields" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sprint_4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UiTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="UiTests" />
+      <option name="MAIN_CLASS_NAME" value="UiTests.CheckCreateOrder" />
+      <option name="METHOD_NAME" value="checkCreateOrderTopButtonOrderAllFields" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckCreateOrder.checkCreateOrderTwoButtons" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sprint_4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UiTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="UiTests" />
+      <option name="MAIN_CLASS_NAME" value="UiTests.CheckCreateOrder" />
+      <option name="METHOD_NAME" value="checkCreateOrderTwoButtons" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.CheckCreateOrder.checkCreateOrderTwoButtons" />
+      <item itemvalue="JUnit.CheckAboutImportantListPanelText.checkAnswersWhenQuestionsOpen" />
+      <item itemvalue="JUnit.CheckCreateOrder" />
+      <item itemvalue="JUnit.CheckCreateOrder.checkCreateOrderTopButtonOrderAllFields" />
+      <item itemvalue="JUnit.CheckAboutImportantListPanelText" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CheckCreateOrder.checkCreateOrderTwoButtons" />
+        <item itemvalue="JUnit.CheckCreateOrder" />
+        <item itemvalue="JUnit.CheckAboutImportantListPanelText.checkAnswersWhenQuestionsOpen" />
+        <item itemvalue="JUnit.CheckAboutImportantListPanelText" />
+        <item itemvalue="JUnit.CheckCreateOrder.checkCreateOrderTopButtonOrderAllFields" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d301a7a3-e747-44ac-81a1-a944017f18ab" name="Changes" comment="" />
+      <created>1666898105834</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666898105834</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Tests for Scooter Service">
+      <created>1667157277314</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667157277314</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tests for Scooter Service" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tests for Scooter Service" />
+  </component>
+</project>

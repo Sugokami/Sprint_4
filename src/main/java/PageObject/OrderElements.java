@@ -49,23 +49,11 @@ public class OrderElements {
        driver.findElement(orderButton).click();
 
     }
-    public void fillSecondPageOnlyRequiredFields(String date) {
-        driver.findElement(placeholderWhen).sendKeys(date);
-        driver.findElement(dropdownRentalPeriod).click();
-        driver.findElement(dropdownRentalPeriodTwoDays).click();
-        driver.findElement(orderButton).click();
-
-    }
-    public void waitForLoadAnswers() {
-        new WebDriverWait(driver, Duration.ofSeconds(15))
-                .until(ExpectedConditions.elementToBeClickable(yesButton));
-    }
-    public void clickYesButton() {
-
-        driver.findElement(yesButton).click();
+    public By getYesButton() {
+        return yesButton;
     }
 
-    public String getTextOrderIsDone(){
-        return driver.findElement(orderIsDone).getText();
+    public By getOrderIsDone(){
+        return orderIsDone;
     }
 }
